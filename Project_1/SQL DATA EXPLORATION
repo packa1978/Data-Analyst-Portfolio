@@ -1,0 +1,6 @@
+PROJECT 1 - SQL DATA EXPLORATION 
+My first Data Analysis project is exploring global data on confirmed COVID-19 deaths and vaccination roll out. 
+I used both, excel and sql to format and query the data. 
+I downloaded the csv  file from  Coronavirus (COVID-19) Deaths - Our World in Data. 
+I also split the data into two tables. First has our death information, second includes vaccination information.
+I created the Portfolio Project database where I put these two excel files ( I am using MySQL Workbench 8.0)
