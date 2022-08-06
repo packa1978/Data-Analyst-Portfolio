@@ -1,0 +1,11 @@
+Creating Bike Sales Dashboard 
+
+Firstly I cleaned the data, checking for spelling errors, missing data, ambiguity (
+As “ M “is also used in Gender column , I replaced it  with Married a. I also replaced “ S  “with Single in Marital Status column.  Similarly I updated Gender column “ M “ was replaced with male and “F”with female.) I also created additional column with age brackets to help me with the visualisation later.
+
+In  next step I created pivot tables  and charts  showing 
+1)	Average income per purchase table .If people on higher income purchased more bikes that those on lower income. I also broken it down by gender. 
+2)	Which age group purchases more bikes. 
+3)	Whether the commuting distance makes a difference when purchasing the bike.
+
+My final step was creating dashboard with all tree charts, I also added filters for gender, region and education. 
